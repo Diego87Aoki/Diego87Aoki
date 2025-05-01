@@ -40,7 +40,6 @@ Interesses: automação, desenvolvimento web e integração de sistemas
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![JDOODLE](https://img.shields.io/badge/JDOODLE-F01F7A?style=for-the-badge&logo=JDOODLE&logoColor=white)&nbsp;
 
-
 &nbsp;
 &nbsp;
 
@@ -50,7 +49,7 @@ Interesses: automação, desenvolvimento web e integração de sistemas
   <a href="https://www.instagram.com/oidiegoaoki/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diego.aoki87@gmail.com" target="_blank">
+  <a href="#" title="diego.aoki87@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/aoki3/" target="_blank">
@@ -58,10 +57,7 @@ Interesses: automação, desenvolvimento web e integração de sistemas
   </a>
 </div>
 
- 
 
- 
 
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
